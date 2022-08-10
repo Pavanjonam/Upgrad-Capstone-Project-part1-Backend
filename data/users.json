@@ -1,0 +1,47 @@
+[{
+  "_id": {
+    "$oid": "6096b2cd1f2c5b020462c3e1"
+  },
+  "isAdmin": false,
+  "name": "Mrigank k",
+  "email": "mrigankkashyap8@gmail.com",
+  "password": "$2b$10$sU8.oMjMEX/J.V4XZex6rOkEW2.n5rsXP4Pfcn4amKY1hOnSCJWEu",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6096b4561f2c5b020462c3e2"
+  },
+  "isAdmin": true,
+  "name": "Ganesh Naik",
+  "email": "ganeshnaik@gmail.com",
+  "password": "$2b$10$Drg.zzdkhBWUKZ9bVuqUlOvQU3v7bWomWx5aDtpd8yhrTxw/rav9C",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60be01e48c5e4d37003b7895"
+  },
+  "email": "shivam@gmail.com",
+  "password": "$2b$10$TEavRu2MdanwP7DwmjS7se08QEv8v9/1Tmld/myhEPA4Sq87KEg/m",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60be022d8c5e4d37003b7896"
+  },
+  "email": "raman@gmail.com",
+  "password": "$2b$10$tIG0LcciM2GDDHEMm.R28.IMHMEdYLFFfhicjiq8Sh6bmnwtPNSoq",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60be0b738c5e4d37003b789a"
+  },
+  "email": "harshita@gmail.com",
+  "password": "$2b$10$5RaLKFIjD8lOo.LsYM2YTu/7Y8PeBbOcuNP4F7oTDZHX0VVfB2d8m",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60be6b9af265c52f18c6c718"
+  },
+  "email": "admin@upgrad.com",
+  "password": "$2b$10$Rz4htrJ0mS.9Inep8HzVZuKp35LJvZ8yh4RkopslW/KA6qNZGmhlO",
+  "__v": 0
+}]

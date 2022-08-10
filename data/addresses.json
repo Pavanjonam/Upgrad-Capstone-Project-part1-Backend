@@ -1,0 +1,61 @@
+[{
+  "_id": {
+    "$oid": "60bde6ae2e73e63128ec60d7"
+  },
+  "name": "Mrigank",
+  "city": "Kolkata",
+  "state": "West Bengal",
+  "street": "503-2",
+  "contactNumber": 7903710344,
+  "landmark": "",
+  "zipCode": 700106,
+  "user": {
+    "$oid": "6096b4561f2c5b020462c3e2"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60bde8fb7eb0f905ac03fc32"
+  },
+  "name": "Bangalore Home",
+  "city": "Bangalore",
+  "state": "Karnataka",
+  "street": "c-106, Sneha Grandeur",
+  "contactNumber": 7903710344,
+  "landmark": "",
+  "zipCode": 560048,
+  "user": {
+    "$oid": "6096b4561f2c5b020462c3e2"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60be02848c5e4d37003b7897"
+  },
+  "name": "Lucknow Home",
+  "city": "Lucknow",
+  "state": "Uttar Pradesh",
+  "street": "Police Line",
+  "contactNumber": 7903710346,
+  "landmark": "",
+  "zipCode": 723990,
+  "user": {
+    "$oid": "60be022d8c5e4d37003b7896"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60be0cc88c5e4d37003b789b"
+  },
+  "name": "Bangalore Home",
+  "city": "Bangalore",
+  "state": "Karnataka",
+  "street": "C-106",
+  "contactNumber": 7903710346,
+  "landmark": "",
+  "zipCode": 560048,
+  "user": {
+    "$oid": "60be0b738c5e4d37003b789a"
+  },
+  "__v": 0
+}]

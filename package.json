@@ -1,0 +1,32 @@
+{
+  "name": "Capstone_Project_Backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/payalt712/Capstone_Project_Backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/payalt712/Capstone_Project_Backend/issues"
+  },
+  "homepage": "https://github.com/payalt712/Capstone_Project_Backend#readme",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "config": "^3.3.6",
+    "cors": "^2.8.5",
+    "env-cmd": "^10.1.0",
+    "express": "^4.17.1",
+    "fawn": "^2.1.5",
+    "joi": "^17.4.2",
+    "joi-objectid": "^3.0.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.13.5"
+  }
+}

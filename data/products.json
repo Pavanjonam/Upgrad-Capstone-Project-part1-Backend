@@ -1,0 +1,100 @@
+[{
+  "_id": {
+    "$oid": "60bd4af2d1bbe10224740025"
+  },
+  "name": "Levi Strauss Jeans",
+  "category": "Apparel",
+  "manufacturer": "Levis",
+  "availableItems": 8,
+  "price": 1000,
+  "imageURL": "https://storage.sg.content-cdn.io/cdn-cgi/image/width=600,height=800,quality=60,format=auto,fit=cover,g=top/in-resources/22a79ec5-e694-4d7a-ac5a-85c8fa45b7f1/Images/ProductImages/Source/ITMDN00486Dark%20Wash_1nw.Jpg",
+  "description": "slim fit stretch jeans offers comfort with style. Made with high-quality material of cotton lycra and superior stitching for excellent fit, comfort and a stylish look.",
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2021-06-07T12:11:07.644Z"
+  },
+  "createdAt": {
+    "$date": "2021-06-07T12:11:07.644Z"
+  }
+},{
+  "_id": {
+    "$oid": "60bd4f9785222041687c803e"
+  },
+  "name": "iPhone 12",
+  "category": "Electronics",
+  "manufacturer": "Apple",
+  "availableItems": 148,
+  "price": 100000,
+  "imageURL": "https://www.reliancedigital.in/medias/Apple-12-Smartphones-491901533-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wxMTMwMTd8aW1hZ2UvanBlZ3xpbWFnZXMvaDM2L2g1OC85NDA3NzMxMTcxMzU4LmpwZ3w5NjBiYTIzZWE1Yjg5NjQzN2YyZTAxZjNhNGI2ODg0YzQ4NmZlMDZiN2EwYmVkYjlhZjA3OGIxNDZiNDEzNTc0",
+  "description": "A14 Bionic, the fastest chip in a smartphone. An edge-to-edge OLED display.",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60bdc748f4b8540be02b7fd8"
+  },
+  "name": "Lifebuoy Hand Sanitizer",
+  "category": "Personal Care",
+  "manufacturer": "HUL",
+  "availableItems": 1200,
+  "price": 120,
+  "imageURL": "https://5.imimg.com/data5/SELLER/Default/2020/8/IV/VS/ND/30769763/lifebuoy-240-ml-sanitizer-500x500.jpg",
+  "description": " It instantly kills 99.9% bacteria and viruses. Can be used as often as required and works without any water",
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2021-06-07T11:07:17.030Z"
+  }
+},{
+  "_id": {
+    "$oid": "60bdfc998c5e4d37003b7893"
+  },
+  "name": "boAt Airdopes 131",
+  "category": "Electronics",
+  "manufacturer": "Boat",
+  "availableItems": 96,
+  "price": 1299,
+  "imageURL": "https://rukminim1.flixcart.com/image/416/416/kmccosw0/headphone/g/7/j/airdopes-131-boat-original-imagf9n3rhpwq252.jpeg?q=70",
+  "description": "Bring home the boAt Airdopes 131 that comes with a carrying case. ",
+  "createdAt": {
+    "$date": "2021-06-07T11:01:45.461Z"
+  },
+  "updatedAt": {
+    "$date": "2021-06-07T11:27:06.851Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60be0da58c5e4d37003b789d"
+  },
+  "name": "EMERGO RUNNER Running Shoes ",
+  "category": "Apparel",
+  "manufacturer": "Reebok",
+  "availableItems": 98,
+  "price": 1500,
+  "imageURL": "https://rukminim1.flixcart.com/image/800/960/knxiavk0/shoe/a/r/b/6-hkz70-7-reebok-smoky-indigo-vector-original-imag2hwk8h5xq6a3.jpeg?q=50",
+  "description": "Unique new design with an amalgamation of PU and textile mesh. PU at the rearfoot for motion and protection. Full EVA outsole responsible for traction and responsiveness.",
+  "createdAt": {
+    "$date": "2021-06-07T12:14:29.117Z"
+  },
+  "updatedAt": {
+    "$date": "2021-06-07T19:59:42.909Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60be77ca1683603820d04db5"
+  },
+  "name": "Comfortable Chair",
+  "category": "Furniture",
+  "manufacturer": "Nilkamal",
+  "availableItems": 10,
+  "price": 10000,
+  "imageURL": "",
+  "description": "",
+  "createdAt": {
+    "$date": "2021-06-07T19:47:22.372Z"
+  },
+  "updatedAt": {
+    "$date": "2021-06-07T19:47:22.372Z"
+  },
+  "__v": 0
+}]
